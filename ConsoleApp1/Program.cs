@@ -4,4 +4,6 @@ Console.WriteLine("Hello, World!");
 
 var name = Console.ReadLine();
 
+Console.WriteLine("Please Enter Your Name");
+
 Console.WriteLine("Hello " + name);
