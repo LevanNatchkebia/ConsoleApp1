@@ -7,3 +7,5 @@ var name = Console.ReadLine();
 Console.WriteLine("Please Enter Your Name");
 
 Console.WriteLine("Hello " + name);
+
+//code to call Feature1 
